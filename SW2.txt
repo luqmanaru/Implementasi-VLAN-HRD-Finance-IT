@@ -1,0 +1,9 @@
+Switch>enable
+Switch#configure terminal
+Enter configuration commands, one per line. End with CNTL/Z.
+Switch(config)#hostname SW2
+SW2(config)#interface range fa0/1-2
+SW2(config-if-range)#switchport mode trunk
+SW2(config-if-range)#exit
+SW2(config)#exit
+SW2#write memory
