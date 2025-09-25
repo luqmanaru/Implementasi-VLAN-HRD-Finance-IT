@@ -23,6 +23,7 @@ Tugas ini bertujuan untuk mengimplementasikan jaringan VLAN dengan konfigurasi r
         |  SW2 |
         +------+
 ```
+<img width="827" height="534" alt="image" src="https://github.com/user-attachments/assets/86a918da-8b6c-4e86-bef7-c0f59c173563" />
 
 ## Pembagian VLAN
 
